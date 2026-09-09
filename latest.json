@@ -1,0 +1,26 @@
+{
+  "suite_version": "0.2.007",
+  "released_at": "2026-09-09",
+  "modules": {
+    "app": {
+      "version": "0.2.002",
+      "released_at": "2026-09-09"
+    },
+    "auth": {
+      "version": "0.1.002",
+      "released_at": "2026-09-09"
+    },
+    "pacientes": {
+      "version": "0.1.003",
+      "released_at": "2026-09-09"
+    },
+    "platform": {
+      "version": "0.1.002",
+      "released_at": "2026-09-09"
+    },
+    "frontend": {
+      "version": "0.2.002",
+      "released_at": "2026-09-09"
+    }
+  }
+}
