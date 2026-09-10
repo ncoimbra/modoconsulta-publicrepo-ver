@@ -1,26 +1,26 @@
 {
-  "suite_version": "0.3.000",
-  "released_at": "2026-09-09T23:36:43.314Z",
+  "suite_version": "0.4.000",
+  "released_at": "2026-09-10T05:03:18.438Z",
   "modules": {
     "app": {
-      "version": "0.2.003",
-      "released_at": "2026-09-09T23:36:43.314Z"
+      "version": "0.3.000",
+      "released_at": "2026-09-10T05:03:18.438Z"
     },
     "auth": {
-      "version": "0.1.002",
-      "released_at": "2026-09-08T23:33:57Z"
+      "version": "0.2.000",
+      "released_at": "2026-09-10T05:03:18.438Z"
     },
     "pacientes": {
-      "version": "0.2.000",
-      "released_at": "2026-09-09T23:36:43.314Z"
+      "version": "0.3.000",
+      "released_at": "2026-09-10T05:03:18.438Z"
     },
     "platform": {
-      "version": "0.1.003",
-      "released_at": "2026-09-09T23:36:43.314Z"
+      "version": "0.2.000",
+      "released_at": "2026-09-10T05:03:18.438Z"
     },
     "frontend": {
-      "version": "0.3.000",
-      "released_at": "2026-09-09T23:36:43.314Z"
+      "version": "0.4.000",
+      "released_at": "2026-09-10T05:03:18.438Z"
     }
   }
 }
