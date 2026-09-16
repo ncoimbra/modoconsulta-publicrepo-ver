@@ -1,26 +1,26 @@
 {
-  "suite_version": "0.17.000",
-  "released_at": "2026-09-16T09:01:23.728Z",
+  "suite_version": "0.18.000",
+  "released_at": "2026-09-16T10:52:42.259Z",
   "modules": {
     "app": {
       "version": "0.12.000",
       "released_at": "2026-09-15T19:09:07Z"
     },
     "auth": {
-      "version": "0.10.002",
-      "released_at": "2026-09-16T08:37:48Z"
+      "version": "0.11.000",
+      "released_at": "2026-09-16T10:52:42.259Z"
     },
     "pacientes": {
-      "version": "0.14.000",
-      "released_at": "2026-09-16T09:01:23.728Z"
+      "version": "0.15.000",
+      "released_at": "2026-09-16T10:52:42.259Z"
     },
     "platform": {
       "version": "0.10.000",
       "released_at": "2026-09-15T09:24:17Z"
     },
     "frontend": {
-      "version": "0.21.000",
-      "released_at": "2026-09-16T09:01:23.728Z"
+      "version": "0.22.000",
+      "released_at": "2026-09-16T10:52:42.259Z"
     },
     "database": {
       "version": "Rollout 43",
