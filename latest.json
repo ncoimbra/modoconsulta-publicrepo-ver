@@ -1,10 +1,10 @@
 {
-  "suite_version": "0.20.000",
-  "released_at": "2026-09-16T14:19:47.127Z",
+  "suite_version": "0.21.000",
+  "released_at": "2026-09-16T15:18:54.569Z",
   "modules": {
     "app": {
-      "version": "0.12.000",
-      "released_at": "2026-09-15T19:09:07Z"
+      "version": "0.13.000",
+      "released_at": "2026-09-16T15:18:54.569Z"
     },
     "auth": {
       "version": "0.11.000",
@@ -20,11 +20,11 @@
     },
     "frontend": {
       "version": "0.24.000",
-      "released_at": "2026-09-16T14:19:47.127Z"
+      "released_at": "2026-09-16T14:19:47Z"
     },
     "database": {
-      "version": "Rollout 43",
-      "released_at": "2026-09-15T13:00:00.000Z"
+      "version": "Rollout 44",
+      "released_at": "2026-09-16T13:52:45.000Z"
     }
   }
 }
