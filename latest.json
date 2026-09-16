@@ -1,6 +1,6 @@
 {
-  "suite_version": "0.19.000",
-  "released_at": "2026-09-16T13:34:38.595Z",
+  "suite_version": "0.20.000",
+  "released_at": "2026-09-16T14:19:47.127Z",
   "modules": {
     "app": {
       "version": "0.12.000",
@@ -12,15 +12,15 @@
     },
     "pacientes": {
       "version": "0.16.000",
-      "released_at": "2026-09-16T13:34:38.595Z"
+      "released_at": "2026-09-16T13:34:38Z"
     },
     "platform": {
       "version": "0.10.000",
       "released_at": "2026-09-15T09:24:17Z"
     },
     "frontend": {
-      "version": "0.23.000",
-      "released_at": "2026-09-16T13:34:38.595Z"
+      "version": "0.24.000",
+      "released_at": "2026-09-16T14:19:47.127Z"
     },
     "database": {
       "version": "Rollout 43",
