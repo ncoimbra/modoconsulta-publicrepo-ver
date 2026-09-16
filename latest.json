@@ -1,10 +1,10 @@
 {
-  "suite_version": "0.21.000",
-  "released_at": "2026-09-16T15:18:54.569Z",
+  "suite_version": "0.22.000",
+  "released_at": "2026-09-16T16:19:09.457Z",
   "modules": {
     "app": {
-      "version": "0.13.000",
-      "released_at": "2026-09-16T15:18:54.569Z"
+      "version": "0.14.000",
+      "released_at": "2026-09-16T16:19:09.457Z"
     },
     "auth": {
       "version": "0.11.000",
