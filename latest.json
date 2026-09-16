@@ -1,6 +1,6 @@
 {
-  "suite_version": "0.14.000",
-  "released_at": "2026-09-16T04:35:42.244Z",
+  "suite_version": "0.15.000",
+  "released_at": "2026-09-16T05:46:37.720Z",
   "modules": {
     "app": {
       "version": "0.12.000",
@@ -19,8 +19,8 @@
       "released_at": "2026-09-15T09:24:17Z"
     },
     "frontend": {
-      "version": "0.18.000",
-      "released_at": "2026-09-16T04:35:42.244Z"
+      "version": "0.19.000",
+      "released_at": "2026-09-16T05:46:37.720Z"
     },
     "database": {
       "version": "Rollout 43",
